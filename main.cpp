@@ -10,6 +10,6 @@ int main()
     cout << "Hello World!" << endl;
     cout << a << endl;
     cout << a << sizeof(a) <<endl;
-    cout << a+1 << sizeof(a) <<endl;
+    cout << a+c << sizeof(a) <<endl;
     return 0;
 }
